@@ -66,16 +66,23 @@ __To Push:__
 * Note:  make sure you're in the directory `NU_MS_EDA_Project`
 More info here: https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
 1. Start tracking the new file, or the file you've changed by running:
+
 `git add <filename>`
+
 You can do this for multiple files:
+
 `git add <filename> <filename>`
+
 Or all files:
+
 `git add *`
 
 2. Commit the changes:
-`git commit -m "<description of the changes>`
+
+`git commit -m "<description of the changes>"
 
 3. Push the changes:
+
 `git push`
 
 For example:
