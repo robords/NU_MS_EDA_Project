@@ -1,0 +1,8 @@
+# Ignore gzip files
+*.gz
+
+# Ignore all idea files
+*.idea/
+
+# Ignore the notebook checkpoints
+*.ipynb_checkpoints/
