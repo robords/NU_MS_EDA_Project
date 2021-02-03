@@ -1,8 +1,7 @@
 # NU_MS_EDA_Project
 
 ## Data:
-1. COVID Data retrieved on 1/31/2021 from: https://data.cdc.gov/NCHS/Provisional-COVID-19-Death-Counts-in-the-United-St/kn79-hsxy/data
-2. Massachusetts crime data from: https://masscrime.chs.state.ma.us/public/View/dispview.aspx
+https://www.imdb.com/interfaces/
 
 
 ## Git commands:
