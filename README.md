@@ -78,7 +78,7 @@ Or all files:
 
 2. Commit the changes:
 
-`git commit -m "<description of the changes>"
+`git commit -m "<description of the changes>"`
 
 3. Push the changes:
 
