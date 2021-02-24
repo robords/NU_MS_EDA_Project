@@ -6,3 +6,6 @@
 
 # Ignore the notebook checkpoints
 *.ipynb_checkpoints/
+
+# Ignore the csv files
+*.csv
